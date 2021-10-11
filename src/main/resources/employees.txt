@@ -1,0 +1,3 @@
+Dan , Smith , emp1 , hourly , 01
+Mike , Dane , emp1 , hourly , 02
+Steve , Hunt , emp1 , admin , 03
