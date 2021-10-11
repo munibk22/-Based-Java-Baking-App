@@ -4,7 +4,7 @@
 Leveraging Java 8, A Banking application that simulates simple banking transactions
 
 ![Project Image](/src/main/resources/bank2.png)
-Format: ![Alt Text](url)
+
 
 **Requirements**
 *	Build the application using Java 8
@@ -31,4 +31,3 @@ Format: ![Alt Text](url)
 
 
 ![Project Image](/src/main/resources/bank.png)
-Format: ![Alt Text](url)
