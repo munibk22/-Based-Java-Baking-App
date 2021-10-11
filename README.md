@@ -1,7 +1,10 @@
 # Project 0 - Banking Application
 
 **Description**
-Leveraging Java 8, create an application that simulates simple banking transactions
+Leveraging Java 8, A Banking application that simulates simple banking transactions
+
+![Project Image](/src/main/resources/bank2.png)
+Format: ![Alt Text](url)
 
 **Requirements**
 *	Build the application using Java 8
