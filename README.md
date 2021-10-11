@@ -25,7 +25,7 @@ Leveraging Java 8, create an application that simulates simple banking transacti
     * All transactions should be logged
 
 * 
-C:\Users\Integ\OneDrive\Pictures\Coding\bank.png
+
 
 ![Project Image](/src/main/resources/bank.png)
 Format: ![Alt Text](url)
